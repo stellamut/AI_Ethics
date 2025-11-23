@@ -1,4 +1,4 @@
-# Ethical AI Analysis & Framework --- README
+# Ethical AI Analysis & Framework ---
 
 ## 1. Theoretical Foundations
 
